@@ -1,0 +1,1 @@
+web:gunicorn taskmate1app.wsgi
